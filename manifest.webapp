@@ -1,0 +1,17 @@
+{
+  "name": "MyBmtc",
+  "description": "BMTC Bus info app",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "gbindia",
+    "url": "http://www.gbindia.in"
+  },
+
+  "default_locale": "en-US",
+  "icons": {
+    "128": "icons/bmtc-128.png",
+    "60": "icons/bmtc-60.png"
+  },
+  "orientation": "portrait"
+}
